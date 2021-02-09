@@ -30,8 +30,8 @@ After training completed, the weight would be saved into folder "checkpoints".
 
 # Test 
 Run command of the format "python predict.py --model model_path --input img_path --output output_img_path" .
-For example: "python predict.py --model checkpoints/CP_epoch5.pth --input data/test/6a951d3a3131_03.jpg --output predicted_imgs/6a951d3a3131_03.jpg" . 
 
+For example: "python predict.py --model checkpoints/CP_epoch5.pth --input data/test/6a951d3a3131_03.jpg --output predicted_imgs/6a951d3a3131_03.jpg" . 
 
 
 
